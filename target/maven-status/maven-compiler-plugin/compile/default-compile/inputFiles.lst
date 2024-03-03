@@ -1,7 +1,7 @@
-/home/blessingsithole/play-ground/demo/src/main/java/com/example/payroll/LoadDatabase.java
-/home/blessingsithole/play-ground/demo/src/main/java/com/example/payroll/EmployeeRepository.java
-/home/blessingsithole/play-ground/demo/src/main/java/com/example/payroll/EmployeeController.java
-/home/blessingsithole/play-ground/demo/src/main/java/com/example/payroll/Employee.java
-/home/blessingsithole/play-ground/demo/src/main/java/com/example/payroll/EmployeeNotFoundException.java
-/home/blessingsithole/play-ground/demo/src/main/java/com/example/payroll/PayrollApplication.java
-/home/blessingsithole/play-ground/demo/src/main/java/com/example/payroll/EmployeeNotFoundAdvice.java
+/home/blessingsithole/play-ground/payroll-app/src/main/java/com/example/payroll/EmployeeNotFoundException.java
+/home/blessingsithole/play-ground/payroll-app/src/main/java/com/example/payroll/EmployeeRepository.java
+/home/blessingsithole/play-ground/payroll-app/src/main/java/com/example/payroll/EmployeeNotFoundAdvice.java
+/home/blessingsithole/play-ground/payroll-app/src/main/java/com/example/payroll/PayrollApplication.java
+/home/blessingsithole/play-ground/payroll-app/src/main/java/com/example/payroll/LoadDatabase.java
+/home/blessingsithole/play-ground/payroll-app/src/main/java/com/example/payroll/Employee.java
+/home/blessingsithole/play-ground/payroll-app/src/main/java/com/example/payroll/EmployeeController.java
